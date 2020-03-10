@@ -1,0 +1,181 @@
+country,cri_rank,co2_rank,continent
+Afghanistan,24,116,Asia
+Albania,125,117,Europe
+Algeria,109,35,Africa
+Angola,80,75,Africa
+Antigua and Barbuda,135,158,Americas
+Argentina,40,28,Americas
+Armenia,135,112,Asia
+Australia,43,18,Oceania
+Austria,49,44,Europe
+Azerbaijan,135,66,Asia
+Bahamas,135,135,Americas
+Bahrain,135,70,Asia
+Bangladesh,98,59,Asia
+Barbados,135,141,Americas
+Belarus,130,47,Europe
+Belgium,90,34,Europe
+Belize,135,156,Americas
+Benin,101,120,Africa
+Bhutan,135,155,Asia
+Bolivia,59,82,Americas
+Bosnia and Herzegovina,129,80,Europe
+Botswana,135,115,Africa
+Brazil,91,15,Americas
+Brunei Darussalam,135,101,Asia
+Bulgaria,116,55,Europe
+Burkina Faso,135,140,Africa
+Burundi,25,164,Africa
+Cambodia,38,119,Asia
+Cameroon,122,110,Africa
+Canada,9,7,Americas
+Cape Verde,135,161,Africa
+Central African Republic,73,163,Africa
+Chad,135,160,Africa
+Chile,87,45,Americas
+China,33,1,Asia
+Colombia,53,43,Americas
+Comoros,135,174,Africa
+Costa Rica,96,99,Americas
+Cote d'Ivoire,106,95,Africa
+Croatia,126,72,Europe
+Cyprus,76,97,Asia
+Czech Republic,35,32,Europe
+Democratic Republic of Congo,68,133,Africa
+Democratic Republic of Timor-Leste,135,172,Asia
+Denmark,55,53,Europe
+Djibouti,31,157,Africa
+Dominica,135,175,Americas
+Dominican Republic,99,73,Americas
+Ecuador,112,68,Americas
+Egypt,131,29,Africa
+El Salvador,30,103,Americas
+Eritrea,135,149,Africa
+Estonia,108,78,Europe
+Eswatini,111,144,Africa
+Ethiopia,57,105,Africa
+Fiji,10,146,Oceania
+Finland,135,48,Europe
+France,34,16,Europe
+Gabon,135,109,Africa
+Gambia,135,162,Africa
+Georgia,113,106,Asia
+Germany,3,6,Europe
+Ghana,65,93,Africa
+Greece,11,39,Europe
+Grenada,70,165,Americas
+Guatemala,83,86,Americas
+Guinea,135,131,Africa
+Guinea-Bissau,37,166,Africa
+Guyana,135,138,Americas
+Haiti,104,134,Americas
+Honduras,45,98,Americas
+Hungary,123,51,Europe
+Iceland,135,128,Europe
+India,5,4,Asia
+Indonesia,64,17,Asia
+Iraq,66,36,Asia
+Ireland,81,61,Europe
+Islamic Republic of Iran,60,10,Asia
+Israel,106,46,Asia
+Italy,21,12,Europe
+Jamaica,128,92,Americas
+Japan,1,5,Asia
+Jordan,50,74,Asia
+Kazakhstan,115,24,Asia
+Kenya,7,90,Africa
+Kiribati,135,179,Oceania
+Kuwait,57,42,Asia
+Kyrgyz Republic,134,100,Asia
+Lao People's Democratic Republic,22,142,Asia
+Latvia,44,94,Europe
+Lebanon,62,77,Asia
+Lesotho,56,129,Africa
+Liberia,135,152,Africa
+Libya,135,54,Africa
+Lithuania,19,81,Europe
+Luxembourg,95,91,Europe
+Madagascar,4,132,Africa
+Malawi,93,147,Africa
+Malaysia,97,27,Asia
+Maldives,118,151,Asia
+Mali,135,148,Africa
+Malta,135,124,Europe
+Marshall Islands,135,178,Oceania
+Mauritania,116,136,Africa
+Mauritius,84,121,Africa
+Mexico,26,11,Americas
+"Micronesia, Federated States of",135,173,Oceania
+Mongolia,17,83,Asia
+Montenegro,114,143,Europe
+Morocco,135,58,Africa
+Mozambique,54,127,Africa
+Myanmar,48,87,Asia
+Namibia,85,126,Africa
+Nepal,20,118,Asia
+Netherlands,62,25,Europe
+New Zealand,46,67,Oceania
+Nicaragua,52,113,Americas
+Niger,27,145,Africa
+Nigeria,18,40,Africa
+North Macedonia,135,88,Europe
+Norway,94,57,Europe
+Oman,13,65,Asia
+Pakistan,100,30,Asia
+Panama,92,96,Americas
+Papua New Guinea,135,114,Oceania
+Paraguay,127,111,Americas
+Peru,110,63,Americas
+Philippines,2,41,Asia
+Poland,41,20,Europe
+Portugal,72,49,Europe
+Qatar,135,50,Asia
+Republic of Congo,135,139,Africa
+Republic of Korea,81,9,Asia
+Republic of Moldova,135,104,Europe
+Republic of Yemen,28,76,Asia
+Romania,89,37,Europe
+Russia,79,3,Europe
+Rwanda,8,153,Africa
+Saint Kitts and Nevis,135,169,Americas
+Saint Lucia,135,159,Americas
+Saint Vincent and the Grenadines,135,168,Americas
+Samoa,70,171,Oceania
+Saudi Arabia,103,14,Asia
+Senegal,120,108,Africa
+Serbia,61,71,Europe
+Seychelles,135,154,Africa
+Sierra Leone,135,150,Africa
+Singapore,135,56,Asia
+Slovak Republic,102,62,Europe
+Slovenia,51,79,Europe
+Solomon Islands,29,170,Oceania
+South Africa,47,13,Africa
+South Sudan,133,167,Africa
+Spain,38,21,Europe
+Sri Lanka,6,85,Asia
+Sudan,42,89,Africa
+Suriname,135,130,Americas
+Sweden,105,52,Europe
+Switzerland,77,60,Europe
+Tajikistan,73,122,Asia
+Tanzania,68,107,Africa
+Thailand,67,23,Asia
+Togo,135,137,Africa
+Tonga,15,176,Oceania
+Trinidad and Tobago,88,64,Americas
+Tunisia,35,69,Africa
+Turkey,85,22,Asia
+Tuvalu,135,180,Oceania
+Uganda,14,125,Africa
+Ukraine,121,19,Europe
+United Arab Emirates,135,31,Asia
+United Kingdom,78,8,Europe
+United States,12,2,Americas
+Uruguay,23,102,Americas
+Uzbekistan,135,33,Asia
+Vanuatu,31,177,Oceania
+Venezuela,119,26,Americas
+Vietnam,16,38,Asia
+Zambia,135,123,Africa
+Zimbabwe,132,84,Africa
